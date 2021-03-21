@@ -1,0 +1,43 @@
+.feedback-container {
+    margin: auto;
+    margin-top: 7em;
+    border: solid 1px black;
+    padding: 4em 2em 3.8em 3em;
+    max-width: 48%;
+}
+
+
+.feedback-container > img {
+    width: 60px;
+    height: 60px;
+    border-radius: 180px;
+    float: left;
+    top: 0px;
+    margin-top: -1.3em;
+}
+
+.quote {
+    margin-top: 20px;
+    font-style: italic;
+    width: 100%;
+}
+
+.feedback-content {
+    width: 82%;
+    margin-left: 5.1em;
+    text-align: left;
+}
+
+.title {
+    font-weight: bold;
+    width: 90%;
+}
+
+.position {
+    font-weight: 400;
+}
+
+.back {
+    text-align: center;
+    margin-top: 1em;
+}
